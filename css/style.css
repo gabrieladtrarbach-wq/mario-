@@ -16,7 +16,7 @@ overflow: hidden;
 .pipe {
 position: absolute;
 bottom: 0;
-width: 80px;
+width: 20px;
 animation: pipe-animation 2s infinite linear;
 
 }
